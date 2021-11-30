@@ -1,1 +1,1 @@
-# orange-github.io
+# orange.github.io
